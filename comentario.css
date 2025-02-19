@@ -1,0 +1,44 @@
+.titulo3{
+    display: flex;
+    font-size: 48px;
+    margin: 20px 0;
+    margin-top: 100px;
+    align-items: center;
+    justify-content: center;
+}
+.comentarios {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    padding: 20px;
+    font-size: 24px;
+}
+.card2 {
+    background: #f8f5f2;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 300px;
+    text-align: left;
+    width: 592px;
+    height: 300px;
+}
+.perfil {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 10px;
+}
+.perfil img {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+}
+.nome {
+    font-weight: bold;
+    font-size: 32px;
+}
+.estrelas {
+    color: #ff0000;
+    font-size: 40px;
+}
